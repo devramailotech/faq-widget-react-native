@@ -8,6 +8,11 @@ The primary goals of this library include:
 - Allowing developers to customize the FAQ component's appearance and behavior to match their app's design and requirements.
 
 <table>
+ <tr>
+    <td>UI Interface</td>
+    <td>Expand and Collapse</td>
+    <td>Search particular content based on answer</td>
+  </tr>
     <td><img src="assets/Screenshot_1.png" width=270 height=480></td>
     <td><img src="assets/Screenshot_2.png" width=270 height=480></td>
     <td><img src="assets/Screenshot_3.png" width=270 height=480></td>
