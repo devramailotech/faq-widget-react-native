@@ -25,9 +25,9 @@ The primary goals of this library include:
 - [Usage](#Usage/Examples)
 - [Options](#Options)
 
-### Prerequisites
+<!-- ### Prerequisites
 
-Before you begin, make sure you have React Native and its dependencies installed. You can follow the official [React Native Getting Started Guide](https://reactnative.dev/docs/environment-setup) if you need help with the setup.
+Before you begin, make sure you have React Native and its dependencies installed. You can follow the official [React Native Getting Started Guide](https://reactnative.dev/docs/environment-setup) if you need help with the setup. -->
 
 ### Installation
 
