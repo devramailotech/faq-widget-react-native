@@ -2,9 +2,13 @@
 
 The React Native FAQ Library is a mobile application that provides a user-friendly way to access frequently asked questions on various topics. This README file will guide you through the installation and usage of the project.
 
-![Landscape Screenshot](/assets/Screenshot_1.png?raw=true)
+<p align="center">
+  <img scr="./assets/Screenshot_1.png" width="30%"/>
+  <img scr="./assets/Screenshot_2.png" width="30%"/>
+</p>
+<!-- ![Landscape Screenshot](/assets/Screenshot_1.png?raw=true)
 ![Landscape Screenshot](/assets/Screenshot_2.png?raw=true)
-![Landscape Screenshot](/assets/Screenshot_3.png?raw=true)
+![Landscape Screenshot](/assets/Screenshot_3.png?raw=true) -->
 
 ## Table of Contents
 
